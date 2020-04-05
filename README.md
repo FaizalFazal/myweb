@@ -1,5 +1,5 @@
 # myweb
 Website
 # Changes
-Edit from readme branch
+Edit from develop locally
 Update before rebase in github
